@@ -1,0 +1,21 @@
+# ninja log v5
+1	67	7350333020443629	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	364777a8077490d6
+1	67	7350333020443629	C:/Users/tiger/OneDrive/Рабочий стол/proga/cmake-build-proga/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	364777a8077490d6
+68	1440	7350333034184620	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	58fc57dfc5e9bd9f
+68	1440	7350333034184620	C:/Users/tiger/OneDrive/Рабочий стол/proga/cmake-build-proga/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	58fc57dfc5e9bd9f
+1443	1505	7350333034834672	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	8a4afe3c72aec2ef
+1443	1505	7350333034834672	C:/Users/tiger/OneDrive/Рабочий стол/proga/cmake-build-proga/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	8a4afe3c72aec2ef
+1505	1601	7350333035784737	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	9b4683a9b1cb1f4b
+1505	1601	7350333035784737	C:/Users/tiger/OneDrive/Рабочий стол/proga/cmake-build-proga/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	9b4683a9b1cb1f4b
+1601	1669	7350333036474782	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	c875bf0ebafb563a
+1601	1669	7350333036474782	C:/Users/tiger/OneDrive/Рабочий стол/proga/cmake-build-proga/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	c875bf0ebafb563a
+1670	1755	7350333037334852	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	63604537c221b7e9
+1670	1755	7350333037334852	C:/Users/tiger/OneDrive/Рабочий стол/proga/cmake-build-proga/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	63604537c221b7e9
+1755	1816	7350333037934903	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	e0151944ca04feeb
+1755	1816	7350333037934903	C:/Users/tiger/OneDrive/Рабочий стол/proga/cmake-build-proga/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	e0151944ca04feeb
+1816	1879	7350333038574942	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	278fbdc33646108
+1816	1879	7350333038574942	C:/Users/tiger/OneDrive/Рабочий стол/proga/cmake-build-proga/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	278fbdc33646108
+1880	1959	7350333039375002	CMakeFiles/googletest-populate-complete	f3a24f77280dfc18
+1880	1959	7350333039375002	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	f3a24f77280dfc18
+1880	1959	7350333039375002	C:/Users/tiger/OneDrive/Рабочий стол/proga/cmake-build-proga/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	f3a24f77280dfc18
+1880	1959	7350333039375002	C:/Users/tiger/OneDrive/Рабочий стол/proga/cmake-build-proga/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	f3a24f77280dfc18
